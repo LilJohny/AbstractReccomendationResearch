@@ -4,4 +4,4 @@
 - https://medium.com/recombee-blog/evaluating-recommender-systems-choosing-the-best-one-for-your-business-c688ab781a35
 - https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 - https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
-
+- https://www.kaggle.com/CooperUnion/anime-recommendations-database
