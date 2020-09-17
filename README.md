@@ -5,3 +5,4 @@
 - https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 - https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 - https://www.kaggle.com/CooperUnion/anime-recommendations-database
+- Content based collaborative filtering
