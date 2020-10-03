@@ -7,5 +7,5 @@
 
 # Ideas to remember
 
--delete rarely rating users (/rarely rated movies) to reduce dimentionality ? 
--to deal with cold start it is better to recommend movies with many reviews and high rating rather than just high rationg
+- delete rarely rating users (/rarely rated movies) to reduce dimentionality ? 
+- to deal with cold start it is better to recommend movies with many reviews and high rating rather than just high rationg
