@@ -2,7 +2,8 @@
 
 - SVD++
 - Assymetric SVD
-- KNN and it`s modifications
+- Word2Vec
+- KNN and it`s optimization (annoy)
 
 
 # Ideas to remember
